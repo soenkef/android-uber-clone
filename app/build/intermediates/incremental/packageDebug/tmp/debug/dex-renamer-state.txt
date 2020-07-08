@@ -1,0 +1,7 @@
+#Mon May 25 22:12:05 CEST 2020
+base.1=C\:\\Users\\Albert\\Documents\\Android_Studio_Dienst\\Uber\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\Albert\\Documents\\Android_Studio_Dienst\\Uber\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
